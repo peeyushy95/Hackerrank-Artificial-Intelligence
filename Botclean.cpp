@@ -2,7 +2,7 @@
    (o_o)
    <) )>
     / \
-   AUTHOR  : Peeyush Yadav
+   AUTHOR  : Peeyush Yadav.
    Problem : https://www.hackerrank.com/challenges/botclean
 */
 #include<bits/stdc++.h>
